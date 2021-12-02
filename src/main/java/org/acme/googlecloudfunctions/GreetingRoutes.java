@@ -1,4 +1,4 @@
-package org.acme.googlecloudfunctionshttp;
+package org.acme.googlecloudfunctions;
 
 import static io.quarkus.vertx.web.Route.HttpMethod.GET;
 

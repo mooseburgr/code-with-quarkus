@@ -1,4 +1,4 @@
-package org.acme.googlecloudfunctionshttp;
+package org.acme.googlecloudfunctions;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
